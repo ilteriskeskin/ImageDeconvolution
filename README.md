@@ -1,2 +1,3 @@
-# EditImage
-Edit image with PyQT
+# Image Deconvolution
+
+Image Deconvolution with scikit-image
