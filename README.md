@@ -20,3 +20,4 @@ python3 test.py
 
 **Project Screenshot**
 
+![corona_ss]()
