@@ -20,4 +20,8 @@ python3 test.py
 
 **Project Screenshot**
 
-![corona_ss]()
+![ss1](https://user-images.githubusercontent.com/20879375/80850073-c3cd2680-8c22-11ea-8116-b04775ef6175.png)
+
+**Resources**
+
+* [scikit-image.org](https://scikit-image.org/docs/dev/auto_examples/)
